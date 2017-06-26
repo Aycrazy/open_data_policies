@@ -1,0 +1,560 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue233;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid2\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid3\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid4\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid5\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid6\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li4320\lin4320 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\margl1440\margr1440\vieww27120\viewh12640\viewkind0
+\deftab720
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fc9f1c59ea8b4f25afe0aeae078d775b_1"}}{\fldrslt 
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Parking Lots\'a0}}
+\f0\fs24 \expnd0\expndtw0\kerning0
+(from City of Naperville Open Data)\
+Shared by\'a0EvaNaperville1\
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fc9f1c59ea8b4f25afe0aeae078d775b_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Individual, detailed parking space data for downtown and commuter parking in Naperville.}}\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fc9f1c59ea8b4f25afe0aeae078d775b_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+{{\NeXTGraphic unknown.png \width4000 \height2660
+}¬}}}\pard\pardeftab720\sl320
+\cf0 \
+\
+\
+4647 locations\
+30 attributes\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fc9f1c59ea8b4f25afe0aeae078d775b_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Parking Spaces\'a0}}(from City of Naperville Open Data)\
+Shared by\'a0EvaNaperville1\
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fc9f1c59ea8b4f25afe0aeae078d775b_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Individual, detailed parking space data for downtown and commuter parking in Naperville.}}\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fc9f1c59ea8b4f25afe0aeae078d775b_2"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 1__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\pard\pardeftab720\sl320
+\cf0 \
+\
+\
+4 locations\
+29 attributes\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fc9f1c59ea8b4f25afe0aeae078d775b_2"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Parking Garages\'a0}}(from City of Naperville Open Data)\
+Shared by\'a0EvaNaperville1\
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fc9f1c59ea8b4f25afe0aeae078d775b_2"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Individual, detailed parking space data for downtown and commuter parking in Naperville.}}\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/4d906e925c5a426587d914473e76495b_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 2__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\pard\pardeftab720\sl320
+\cf0 \
+\
+\
+3820 locations\
+7 attributes\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/4d906e925c5a426587d914473e76495b_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Parking Lot Outline\'a0}}(from City of Naperville Open Data)\
+Shared by\'a0EvaNaperville1\
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/4d906e925c5a426587d914473e76495b_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Naperville Parking Lots}}\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/ad32bbfe07664a7dac8a13b03acb529e_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 3__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\pard\pardeftab720\sl320
+\cf0 \
+\
+\
+23607 locations\
+26 attributes\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/ad32bbfe07664a7dac8a13b03acb529e_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Street Signs\'a0}}(from City of Naperville Open Data)\
+Shared by\'a0pooled\
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/ad32bbfe07664a7dac8a13b03acb529e_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 This layer shows the location and types of street signs maintained by the City of Naperville.}}\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/c700d2debd6d4555830677ca3ad60b49_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 4__#$!@%!#__unknown.png \width3000 \height1980
+}¬}}}\pard\pardeftab720\sl320
+\cf0 \
+\
+\
+14738 locations\
+24 attributes\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/c700d2debd6d4555830677ca3ad60b49_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Street Sign Supports\'a0}}(from City of Naperville Open Data)\
+Shared by\'a0pooled\
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/c700d2debd6d4555830677ca3ad60b49_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 This layer shows the location of street sign supports maintained by the City of Naperville.}}\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/53da0d1cb02446ebab9c3340fcc8e97c_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 5__#$!@%!#__unknown.png \width2970 \height1935
+}¬}}}\pard\pardeftab720\sl320
+\cf0 \
+\
+\
+5 locations\
+2 attributes\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/53da0d1cb02446ebab9c3340fcc8e97c_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Garbage/Recycling Collection Areas\'a0}}(from City of Naperville Open Data)\
+Shared by\'a0pooled\
+The organization that shared this dataset did not provide a description.\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/ad336e2876854f0a94654543e26210cf_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 6__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\pard\pardeftab720\sl320
+\cf0 \
+\
+\
+1139 locations\
+4 attributes\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/ad336e2876854f0a94654543e26210cf_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Snow Priority Cul-de-sacs\'a0}}(from City of Naperville Open Data)\
+Shared by\'a0pooled\
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/ad336e2876854f0a94654543e26210cf_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Naperville has established a priority plowing system for its more than 1,500 miles of roadway so that the main traffic routes are plowed first.\'a0The goal is to clear all streets within\'a015 hours after snow stops falling; however, heavier snows often take longer to clear.\'a0Arterial and main streets are plowed in the first phase of snow removal; residential side streets, cul-de-sacs, alleys and dead ends are cleared in the second phase. Cul-de\'85}}\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/44350c35620043d88e0fa0650d34d6e0_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 7__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\pard\pardeftab720\sl320
+\cf0 \
+\
+\
+2574 locations\
+15 attributes\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/44350c35620043d88e0fa0650d34d6e0_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Snow Priority Routes\'a0}}(from City of Naperville Open Data)\
+Shared by\'a0pooled\
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/44350c35620043d88e0fa0650d34d6e0_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Naperville has established a priority plowing system for its more than 1,500 miles of roadway so that the main traffic routes are plowed first.\'a0The goal is to clear all streets within\'a015 hours after snow stops falling; however, heavier snows often take longer to clear.\'a0Arterial and main streets are plowed in the first phase of snow removal; residential side streets, cul-de-sacs, alleys and dead ends are cleared in the second phase. Cul-de\'85}}\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/9b0207c884f74c18824783f967b1144d_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 8__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\pard\pardeftab720\sl320
+\cf0 \
+\
+\
+38 locations\
+9 attributes\
+\pard\pardeftab720\sl320
+{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/9b0207c884f74c18824783f967b1144d_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Public Works Districts\'a0}}(from City of Naperville Open Data)\
+Shared by\'a0pooled\
+The organization that shared this dataset did not provide a description.\
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/b02aa9ac2621413da3b47e30275a3da3_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul MowingSites\'a0}}\cf0 \expnd0\expndtw0\kerning0
+(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/b02aa9ac2621413da3b47e30275a3da3_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Shows the location of City contracted mowing sites around the city.}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/866ce35f1f5f46618606c91ca7a71d22_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 9__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 139 locations\u8232 \u8232 8 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/866ce35f1f5f46618606c91ca7a71d22_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Herbicide Sites\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/866ce35f1f5f46618606c91ca7a71d22_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Shows the location of City contracted Herbicide locations throughout the city.}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a62b4ac5f5024782bde7a4da3ee8e58c_4"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 10__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 11631 locations\u8232 \u8232 11 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a62b4ac5f5024782bde7a4da3ee8e58c_4"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Street Light Cabling\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a62b4ac5f5024782bde7a4da3ee8e58c_4"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Street Light Cabling}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/cef10d03710e4486bda1963142cdd125_1"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 11__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 220 locations\u8232 \u8232 10 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/cef10d03710e4486bda1963142cdd125_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Street Light Controllers\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/cef10d03710e4486bda1963142cdd125_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Street Light Controllers}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/73eec19c1e7c467e9e8cdcb90a39d32d_2"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 12__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 198 locations\u8232 \u8232 6 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/73eec19c1e7c467e9e8cdcb90a39d32d_2"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Street Light Handholes\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/73eec19c1e7c467e9e8cdcb90a39d32d_2"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Street Light handholes}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/77376dd10faf4e11835a875bb148d1c0_3"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 13__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 157 locations\u8232 \u8232 7 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/77376dd10faf4e11835a875bb148d1c0_3"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Street Light Junction Boxes\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/77376dd10faf4e11835a875bb148d1c0_3"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Street Light Junction Boxes}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fb22a5f6661c4b0098e00dfe6300a7ab_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 14__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 13834 locations\u8232 \u8232 45 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fb22a5f6661c4b0098e00dfe6300a7ab_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Street Light Poles\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fb22a5f6661c4b0098e00dfe6300a7ab_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Street Light Poles}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data.willcountygis.opendata.arcgis.com/"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic unknown.jpg \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 data.willcountygis.opendata.arcgis.com\u8232 \u8232 Document Link\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data.willcountygis.opendata.arcgis.com/"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Will County Open Data Portal\'a0}}\'a0(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooledThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://dupageilgis.dupage.opendata.arcgis.com/"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 1__#$!@%!#__unknown.jpg \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 dupageilgis.dupage.opendata.arcgis.com\u8232 \u8232 Document Link\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://dupageilgis.dupage.opendata.arcgis.com/"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 DuPage County Open Data Portal\'a0}}\'a0(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooledThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_21"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 15__#$!@%!#__unknown.png \width3000 \height1995
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 31792 locations\u8232 \u8232 9 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_21"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 rms.dbo.%vw MappingDailyBulletin\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/b02aa9ac2621413da3b47e30275a3da3_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul MowingSites\'a0}}\cf0 \expnd0\expndtw0\kerning0
+(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/b02aa9ac2621413da3b47e30275a3da3_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Shows the location of City contracted mowing sites around the city.}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/866ce35f1f5f46618606c91ca7a71d22_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 16__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 139 locations\u8232 \u8232 8 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/866ce35f1f5f46618606c91ca7a71d22_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Herbicide Sites\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/866ce35f1f5f46618606c91ca7a71d22_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Shows the location of City contracted Herbicide locations throughout the city.}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a62b4ac5f5024782bde7a4da3ee8e58c_4"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 17__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 11631 locations\u8232 \u8232 11 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a62b4ac5f5024782bde7a4da3ee8e58c_4"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Street Light Cabling\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a62b4ac5f5024782bde7a4da3ee8e58c_4"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Street Light Cabling}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/cef10d03710e4486bda1963142cdd125_1"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 18__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 220 locations\u8232 \u8232 10 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/cef10d03710e4486bda1963142cdd125_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Street Light Controllers\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/cef10d03710e4486bda1963142cdd125_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Street Light Controllers}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/73eec19c1e7c467e9e8cdcb90a39d32d_2"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 19__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 198 locations\u8232 \u8232 6 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/73eec19c1e7c467e9e8cdcb90a39d32d_2"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Street Light Handholes\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/73eec19c1e7c467e9e8cdcb90a39d32d_2"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Street Light handholes}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/77376dd10faf4e11835a875bb148d1c0_3"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 20__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 157 locations\u8232 \u8232 7 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/77376dd10faf4e11835a875bb148d1c0_3"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Street Light Junction Boxes\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/77376dd10faf4e11835a875bb148d1c0_3"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Street Light Junction Boxes}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fb22a5f6661c4b0098e00dfe6300a7ab_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 21__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 13834 locations\u8232 \u8232 45 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fb22a5f6661c4b0098e00dfe6300a7ab_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Street Light Poles\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/fb22a5f6661c4b0098e00dfe6300a7ab_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Street Light Poles}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.willcountygis.opendata.arcgis.com/"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 2__#$!@%!#__unknown.jpg \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 data.willcountygis.opendata.arcgis.com\u8232 \u8232 Document Link\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data.willcountygis.opendata.arcgis.com/"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Will County Open Data Portal\'a0}}\'a0(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooledThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://dupageilgis.dupage.opendata.arcgis.com/"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 3__#$!@%!#__unknown.jpg \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 dupageilgis.dupage.opendata.arcgis.com\u8232 \u8232 Document Link\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://dupageilgis.dupage.opendata.arcgis.com/"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 DuPage County Open Data Portal\'a0}}\'a0(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooledThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_21"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 22__#$!@%!#__unknown.png \width3000 \height1995
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 31792 locations\u8232 \u8232 9 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_21"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 rms.dbo.%vw MappingDailyBulletin\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_10"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Deadly Weapons\'a0}}\cf0 \expnd0\expndtw0\kerning0
+(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_9"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 23__#$!@%!#__unknown.png \width3000 \height1995
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 153 locations\u8232 \u8232 10 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_9"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Mental Health\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_8"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 24__#$!@%!#__unknown.png \width3000 \height1995
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 9329 locations\u8232 \u8232 10 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_8"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Non-Criminal Offenses\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_7"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 25__#$!@%!#__unknown.png \width3000 \height1995
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 7 locations\u8232 \u8232 10 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_7"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Arson\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_6"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 26__#$!@%!#__unknown.png \width3000 \height1995
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 676 locations\u8232 \u8232 10 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_6"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Burglary from a Mobile Vehicle\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_5"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 27__#$!@%!#__unknown.png \width3000 \height1995
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 318 locations\u8232 \u8232 10 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_5"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Burglary\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_4"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 28__#$!@%!#__unknown.png \width3000 \height1995
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 63 locations\u8232 \u8232 10 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_4"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Robbery\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_3"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 29__#$!@%!#__unknown.png \width3000 \height1995
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 766 locations\u8232 \u8232 10 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_3"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Assault/Battery\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_2"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 30__#$!@%!#__unknown.png \width3000 \height1995
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 84 locations\u8232 \u8232 10 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_2"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Sex Offenses\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_1"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 31__#$!@%!#__unknown.png \width3000 \height1995
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 3 locations\u8232 \u8232 11 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Homicide\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/e24d53b00c954a6ab547e411869324dc_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul All Incidents\'a0}}\cf0 \expnd0\expndtw0\kerning0
+(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldonThe organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/614ecc3fb5ae404190d673c8284d4138_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 32__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 13 locations\u8232 \u8232 5 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/614ecc3fb5ae404190d673c8284d4138_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Police Beats\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/614ecc3fb5ae404190d673c8284d4138_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Police Beats for City of Naperville.}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/b7cbffb7489e461dbbad748dfe3daa39_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 33__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 133 locations\u8232 \u8232 8 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/b7cbffb7489e461dbbad748dfe3daa39_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Railroads\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/b7cbffb7489e461dbbad748dfe3daa39_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Railroads within Naperville City Limits}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/8fa49f6c787941a782bfbe14e6b18179_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 34__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 122496 locations\u8232 \u8232 8 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/8fa49f6c787941a782bfbe14e6b18179_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Sidewalks\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/8fa49f6c787941a782bfbe14e6b18179_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Naperville Sidewalk Data}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/49712bd42538400680fcb585f1b6fba0_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 35__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 54975 locations\u8232 \u8232 18 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/49712bd42538400680fcb585f1b6fba0_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Stormwater Structures\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/49712bd42538400680fcb585f1b6fba0_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Stormwater Structures}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/7dd53a7582824687bd34d109e216382b_4"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 36__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 502 locations\u8232 \u8232 9 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/7dd53a7582824687bd34d109e216382b_4"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Stormwater Culvert\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/7dd53a7582824687bd34d109e216382b_4"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Stormwater Culverts}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/7b830d645edc4b5bbc687881ac7db95b_3"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 37__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 62215 locations\u8232 \u8232 8 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/7b830d645edc4b5bbc687881ac7db95b_3"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Stormwater Pipes\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/7b830d645edc4b5bbc687881ac7db95b_3"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Stormwater Pipes}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/cf5f445ac66c4b2a8953706f1b0afed9_1"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 38__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 3275 locations\u8232 \u8232 12 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/cf5f445ac66c4b2a8953706f1b0afed9_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Stormwater Special Features\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/cf5f445ac66c4b2a8953706f1b0afed9_1"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Stormwater Special Features}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/b6f7b27947b541b780e5f6b4647477f4_2"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 39__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 843 locations\u8232 \u8232 8 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/b6f7b27947b541b780e5f6b4647477f4_2"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Stormwater Reservoir\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0pooled{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/b6f7b27947b541b780e5f6b4647477f4_2"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Stormwater Reservoirs}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/3dd99fcf21f043f6b31fa9437b7c0c05_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 40__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 68267 locations\u8232 \u8232 24 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/3dd99fcf21f043f6b31fa9437b7c0c05_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 ROW Trees\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1\u8232 \
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+\
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/3db87d7bda2f4c89866fe7b0fbe4d5b0_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Driveways\'a0}}\cf0 \expnd0\expndtw0\kerning0
+(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/3db87d7bda2f4c89866fe7b0fbe4d5b0_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Naperville Driveways}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/6a76b659d9734b899aa001747d2fea6d_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 41__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 616 locations\u8232 \u8232 8 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/6a76b659d9734b899aa001747d2fea6d_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Roads Outline\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1The organization that shared this dataset did not provide a description.\u8232 \u8232 \u8232 \u8232 \
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/2777b59c04cc480794697847325f4d03_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 42__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 1 locations\u8232 \u8232 5 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/2777b59c04cc480794697847325f4d03_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Municipal Boundary\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/2777b59c04cc480794697847325f4d03_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Municipal Boundary}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/07ada58996754350954a183eb0a12166_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 43__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 51128 locations\u8232 \u8232 16 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/07ada58996754350954a183eb0a12166_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Address Points\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/07ada58996754350954a183eb0a12166_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Address Points}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a1b73698de254ad6b4878eff8ec76c6e_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 44__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 60854 locations\u8232 \u8232 29 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a1b73698de254ad6b4878eff8ec76c6e_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Parcels\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a1b73698de254ad6b4878eff8ec76c6e_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Parcel Layer}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/542a99fbb1ff44eca4c562f226082203_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 45__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 73299 locations\u8232 \u8232 16 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/542a99fbb1ff44eca4c562f226082203_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Buildings\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/542a99fbb1ff44eca4c562f226082203_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Building Footprints}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a89303e1283e49e5b6964b75296d93b1_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 46__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 359 locations\u8232 \u8232 11 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a89303e1283e49e5b6964b75296d93b1_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City Grid\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a89303e1283e49e5b6964b75296d93b1_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Naperville City Grid}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/555e16ff1056459bb1325110ba569629_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 47__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 73 locations\u8232 \u8232 6 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/555e16ff1056459bb1325110ba569629_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Schools\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/555e16ff1056459bb1325110ba569629_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville Schools}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/d6ac8155ab614fecb2f69ac658dbde68_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 48__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 1075 locations\u8232 \u8232 8 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/d6ac8155ab614fecb2f69ac658dbde68_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Natural Water Features\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/d6ac8155ab614fecb2f69ac658dbde68_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Natural Water Features in Naperville}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/0f1dbeaf921d4ae398256fded2b24cdc_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 49__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 8906 locations\u8232 \u8232 25 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/0f1dbeaf921d4ae398256fded2b24cdc_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 ROW Centerline\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/0f1dbeaf921d4ae398256fded2b24cdc_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Naperville Right-of-Way Centerlines}}\uc0\u8232 \
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a21b662cf3474a40bc80431186a9578b"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Naperville 2013 Aerial Mosaic\'a0}}\cf0 \expnd0\expndtw0\kerning0
+(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0JSheldon{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/a21b662cf3474a40bc80431186a9578b"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City of Naperville aerial photography 2013}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/659a2676f718406e93ff99becc207d99_0"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 50__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 8 locations\u8232 \u8232 11 attributes\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/659a2676f718406e93ff99becc207d99_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Emergency Shelters\'a0}}(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1{\field{\*\fldinst{HYPERLINK "http://data-naperville.opendata.arcgis.com/datasets/659a2676f718406e93ff99becc207d99_0"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 Designated Emergency Shelter Locations for the City of Naperville. This data is compatible with Waze feeds.}}\uc0\u8232 \u8232 \u8232 \
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://www.naperville.il.us/gis-maps/"}}{\fldrslt \expnd0\expndtw0\kerning0
+{{\NeXTGraphic 51__#$!@%!#__unknown.png \width4000 \height2660
+}¬}}}\cf0 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 www.naperville.il.us\u8232 \u8232 Document Link\u8232 \u8232 \u8232 \u8232 {\field{\*\fldinst{HYPERLINK "http://www.naperville.il.us/gis-maps/"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 City Website GIS Homepage\'a0}}\'a0(from City of Naperville Open Data)\uc0\u8232 Shared by\'a0EvaNaperville1\u8232 \u8232 \
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \
+}

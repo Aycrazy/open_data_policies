@@ -1,0 +1,95 @@
+,Minneapolis,St. Paul,Hennepin
+0,"311-incidents-2012""",Buildings-Housing-Economic-Development/Vacant-Buildings-Map/rfbb-x7z, Wetland Inventory
+1,"planning-overlay-districts""",Public-Safety/Traffic-Stop-Vehicle-Stops-by-Race-and-Year/tt58-98fx, Priority Natural Resource Corridors
+2,"air-quality-survey""",Public-Safety/Crime-Incident-Report-Dataset/gppb-g9c, Minnesota Land Cover Classification System (MLCCS)
+3,"snow-emergency-jane-tows-2017""",Buildings-Housing-Economic-Development/Approved-Building-Permits-Dataset/j8ip-eytd, Hazardous Waste Generators
+4,"community-corridors""",City-Infrastructure/Resident-Service-Requests-Dataset/3w6i-nfpw, 2010 Census Tracts
+5,"snow-emergency-ferry-tags-2016""",City-Administration/Adopted-Budget-Expenses-Dataset/5p8m-tvzy, 2010 Census Cities
+6,"311-incidents-2015""",City-Administration/Adopted-Budget-Revenue-Dataset/hgx3-a7e, 2010 Census Blocks
+7,"police-incidents-2013""",Buildings-Housing-Economic-Development/Approved-Building-Permits-Map/pesd-bwp3, 2010 Census Block Groups
+8,"police-incidents-2017""",City-Administration/Adopted-Budget-Expenses-2014-Filtered-View/3cmp-cbw8, Hennepin County Park Contacts
+9,"311-incidents-2013""",Buildings-Housing-Economic-Development/Vacant-Buildings-Dataset/fgbn-288b, Minnesota Hospitals
+10,"great-streets-eligible-areas""",City-Administration/Adopted-Budget-Expenses-2016-Filtered-View/rpuw-vc8, Mini Farmers Markets
+11,"311-incidents-2013""",City-Administration/Adopted-Budget-Revenue-2015-Filtered-View/cysd-iyj, HSPHD Regions
+12,"police-incidents-2014""",City-Administration/Adopted-Budget-Expenses-2015-Filtered-View/d2uy-fh56, Park Districts
+13,"snow-emergency-dana-tags-2016""",City-Administration/Adopted-Capital-Improvement-Budgets-by-Year-and-Se/bc8i-ijs9, PLS Points
+14,"minneapolis-police-precincts""",City-Administration/Adopted-Capital-Improvement-Budgets-Dataset/c6jd-rw, Police Stations
+15,"transit-stations""",City-Administration/Adopted-Budget-Expenses-2017-Filtered-View/5d9j-w9, Homeless Shelters
+16,"fires-reported-2013""",City-Administration/Adopted-Budget-Revenue-2017-Filtered-View/kg9k-z, Tax Watershed Districts
+17,"fires-reported-2015""",City-Administration/Adopted-Budget-Revenue-2014-Filtered-View/a838-7ix8, HCMC Clinics
+18,"fires-confirmed-2012""",City-Administration/HUD-Section-3-Business-List/kz7x-sb, Soil and Water Districts
+19,"assessor-building-characteristics-2016""",City-Administration/Adopted-Budget-Revenue-2016-Filtered-View/asak-5xxe, Commissioner Districts
+20,"assessor-building-characteristics-2017""",City-Infrastructure/Resident-Service-Requests-Map/4int-x3j2, MetroGIS Parcels
+21,"tree-inventory""",Public-Safety/Crime-Incident-Report-By-Neighborhood/v5dr-, Address Points
+22,"fires-reported-2013""",City-Infrastructure/Parks-Graffiti-Report-Dataset/gcu2-spkd, Hennepin County Facilities
+23,"fires-reported-2015""",Public-Safety/Traffic-Stop-Dataset/kkd6-, County Parcels
+24,"fires-reported-2012""",City-Infrastructure/Parks-Graffiti-Removal-2013-to-2015-Map/h98g-5r7, Hennepin County Boundary
+25,"assessor-land-characteristics-2017""",Permits-Licensing/Liquor-Licenses-Dataset/hsci-rniw, Hennepin County Street Centerlines
+26,"minneapolis-police-sectors""",Buildings-Housing-Economic-Development/Vacant-Buildings-Data-Lens/3859-vry, Hennepin County Bikeway System
+27,"building-inspection-districts-1""",Public-Safety/Crime-Incident-Report-By-Police-Grid-Chart/3bq5-mtqq, Food Shelves
+28,"hpc-districts""",City-Infrastructure/Resident-Service-Requests-Data-Lens/82ub-tgsq, Farmers Markets
+29,"public-311-2017""",City-Administration/Establishing-an-Open-Information-Program-Resolutio/v7qy-vtzb, Minnesota Nursing Facilities
+30,"property-sales-2014""",Census/Saint-Paul-Election-Turnout-Dataset/sfh7-, MetroGIS Parcel Addresses
+31,"police-incidents-2015""",City-Infrastructure/Parks-Graffiti-Removal-2013-2015-By-Total-Cost-Per/ibh5-bcq8, Hennepin County Municipalities
+32,"active-rental-licenses""",City-Administration/HUD-Section-3-Business-List-Map/d9fd-4yiq, Hennepin County Street Aliases
+33,"street-centerline""",City-Administration/Workforce-Demographics-Report-Dataset/7uin-pnex, Zip Codes
+34,"fires-confirmed-2014""",Public-Facilities-Services/Public-Buildings-Dataset/in8m-ka68, Ward Districts
+35,"industrial-employment-districts""",Public-Facilities-Services/Public-Buildings-Map/pq2r-27v9, Voting Precincts
+36,"honey-bee-permits-2017""",City-Infrastructure/Parks-Graffiti-Report-2013-Map/4bqy-jag6, US Congressional Districts
+37,"technology-outreach-survey""",Public-Facilities-Services/Recreation-Centers-Filtered-View/pfyv-c2pd, Minnesota Legislative Districts
+38,"building-inspection-districts""",City-Administration/Adopted-Capital-Improvement-Budget-By-District-and/utme-8uhd, Hennepin County Parks
+39,"water""",Public-Safety/Crime-Incident-Report-By-Police-Grid-Filtered-View/96di-8kyw, City Halls
+40,"street-centerline""",City-Administration/Workforce-Demographics-Saint-Paul-Police-Departmen/23wy-qvz, Hennepin County Park Facility
+41,"fires-confirmed-2014""",City-Infrastructure/Parks-Graffiti-Report-2015-Map/p8hu-g4, Fire Stations
+42,"technology-outreach-survey""",City-Administration/Suggest-A-Dataset/ta2d-xcgj,
+43,"building-inspection-districts""",Public-Safety/Pedestrian-And-Bike-Crash-Data-Map/9qtp-ayhq,
+44,"active-rental-licenses""",City-Infrastructure/Parks-Graffiti-Report-2013-Filtered-View/ccj8-s9qe,
+45,"minneapolis-police-districts""",City-Administration/Capital-Project-List-Dataset/26h5-gyz4,
+46,"police-incidents-2011""",Permits-Licensing/Liquor-Licenses-Map/7me5-58y,
+47,"property-sales-2014""",City-Infrastructure/Parks-Graffiti-Report-2014-Map/eiaj-bif5,
+48,"police-incidents-2015""",City-Administration/Workforce-Demographics-Report-City-Employment-by-G/ajc3-9f8,
+49,"msvcelections-precincts""",Public-Safety/Pedestrian-and-Bike-Crash-Data-Data-Lens/6vec-haj8,
+50,"311-incidents-2016""",Public-Safety/Traffic-Stop-Vehicle-Searches-by-Race-and-Year-Lin/khaj-d,
+51,"future-land-use""",City-Administration/Workforce-Demographics-Report-All-Employees-Chart/fec8-v6ix,
+52,"property-sales-2006-2009""",Public-Safety/Traffic-Stop-Stops-by-Gender-and-Year/3cki-wbd3,
+53,"property-sales-2002-2005""",Buildings-Housing-Economic-Development/Approved-Building-Permits-Datalens/jxd2-4chb,
+54,"primary-zoning""",City-Infrastructure/Parks-Graffiti-Report-2015-Filtered-View/36rv-gcjd,
+55,"fires-confirmed-2013""",Public-Safety/Crime-Incident-Report-By-Neighborhood-Filtered-Vie/gk4q-kvj,
+56,"minneapolis-energy-benchmarking-results-from-2012-2015""",City-Administration/Unique-Capital-Projects-Grouped-View/epcu-nbb,
+57,"311-incidents-2014""",City-Administration/Adopted-Budget-Expenses-2016-By-Department-Chart/rntm-k22,
+58,"on-sale-liquor""",Public-Facilities-Services/Fire-Stations-Filtered-View/jvit-tz4k,
+59,"311-incidents-2011""",City-Administration/Workforce-Demographics-Report-Data-Lens/rmw6-8,
+60,"growth-centers""",City-Administration/Workforce-Demographics-Report-Full-time-Employees-/chi5-r4g7,
+61,"property-sales-2016""",Public-Safety/Pedestrian-And-Bike-Crash-Data-Dataset/bw92-5h94,
+62,"police-incidents-2012""",City-Administration/Adopted-Budget-Revenue-2015-By-Department-Chart/rzyd-duqb,
+63,"planning-sectors""",City-Infrastructure/Parks-Graffiti-Report-2014-Filtered-View/vbfv-84s5,
+64,"fires-reported-2014""",City-Administration/Adopted-Budget-Expenses-2015-By-Department-Chart/tea6-ub5,
+65,"off-sale-liquor""",Public-Facilities-Services/Libraries-Filtered-View/9k7y-jzeq,
+66,"snow-emergency-polk-tows-2016""",Public-Safety/Traffic-Stop-Driver-Frisks-by-Gender-and-Year-Line/ehre-8kw,
+67,"property-sales-2015""",City-Administration/Adopted-Budget-Revenue-2016-By-Department-Chart/2bzu-gj68,
+68,"major-retail-centers""",City-Administration/District-Council-Shapefile-Map/dq4n-yj8b,
+69,"fire-station-areas""",City-Administration/Adopted-Budget-Expenses-2014-By-Department-Chart/xkyk-dke5,
+70,"activity-centers""",City-Administration/Workforce-Demographics-Report-Citywide-By-Race-Cha/awaq-92cb,
+71,"public-works-street-pavement-mgmt""",Public-Safety/Pedestrian-And-Bike-Crash-Data-Heat-Map/w9z4-qsq,
+72,"public-works-special-assessments""",Public-Safety/Crime-Incident-Report-By-District-Council-and-Inci/vyfj-n6rc,
+73,"parks""",City-Administration/Adopted-Budget-Revenue-2014-By-Department-Chart/mqx4-trge,
+74,"city-boundary""",Permits-Licensing/Liquor-Licenses-On-Sale-Licenses-Filtered-View/cg8z-c9a9,
+75,"city-council-wards""",Public-Safety/Traffic-Stop-Data-Lens/y43k-27,
+76,"small-area-plans""",City-Administration/Workforce-Demographics-Report-By-Department-and-Ge/8xjx-zeuk,
+77,"snow-emergency-grant-tows-2015""",Permits-Licensing/Liquor-Licenses-Off-Sale-Licenses-Filtered-View/urei-c2b,
+78,"primary-zoning-test""",City-Administration/Workforce-Demographics-Report-By-Department-and-Ra/m8jt-vdx,
+79,"police-incidents-2016""",City-Administration/2017-City-Budget-Transmittal-Letter/79ni-7f39,
+80,"ncr-funding""",Public-Safety/Traffic-Stop-Citations-by-Race-and-Year-Line-Chart/iskn-i8,
+81,"fires-confirmed-2015""",Public-Safety/Traffic-Stop-Driver-Frisks-by-Race-and-Year-Line-C/ucdh-wrj,
+82,"snow-emergency-jane-tags-2017""",Public-Safety/Traffic-Stop-Average-Age-and-Race-of-Drivers-Cited/kjx5-tb9x,
+83,"snow-emergency-grant-tows-2015""",Public-Safety/Saint-Paul-Police-Grid-Shapefile/ykwt-ie3e,
+84,"police-incidents-2016""",Public-Safety/21st-Century-Policing-Task-Status-Dataset/tkew-jm95,
+85,"snow-emergency-dana-tows-2016""",Public-Safety/Number-of-traffic-stops-by-Police-Grid-/nrrx-6,
+86,"2-foot-elevation-contours""",City-Administration/Council-Ward-Shapefile-Map/tseu-m286,
+87,"communities""",Public-Safety/Traffic-Stop-Data-Lens/9bjw-tt4q,
+88,"police-incidents-2010""",Public-Safety/Number-of-traffic-stops-Filtered/jmae-aifd,
+89,"primary-zoning-test""",Public-Safety/Traffic-Stop-Stops-that-Resulted-in-Vehicle-Search/p24f-jq,
+90,"police-incidents-2010""",,
+91,"assessor-land-characteristics-2016""",,
+92,"hydrants""",,
+93,"hpc-landmarks""",,

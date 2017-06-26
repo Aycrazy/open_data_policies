@@ -1,0 +1,1242 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset0 LucidaGrande;\f2\froman\fcharset0 Times-Roman;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue233;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid2\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid3\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid4\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid5\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid6\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li4320\lin4320 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\margl1440\margr1440\vieww27120\viewh12720\viewkind0
+\deftab720
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0
+\f0\fs24 \cf2 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/neighborhood-associations"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Neighborhood Associations}}\cf0 \expnd0\expndtw0\kerning0
+\'a0{{\NeXTGraphic unknown.png \width4000 \height2660
+}¬}\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+This data set shows the geographic boundaries of neighborhood associations recognized by the city of Sacramento. \'a0Contact GIS at: sacgis@cityofsacramento.org\uc0\u8232 \'a0No license specified\'a06/5/2017\'a0Spatial Dataset\'a0118 Rows\u8232 \u8232 \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/survey-benchmarks"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Survey Benchmarks}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 1__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+The Datum of the majority of the City of Sacramento benchmarks is the National Geodetic Vertical Datum of 1929 (NGVD 29) and was based upon a plane datum with reference to four U.S. Government monuments. Some North American Vertical Datum 1988 (NAVD 88) differential baselines have been conducted and the elevations of those benchmarks have been included and identified in this database. VERTICAL CONTROL DISCLAIMER AND GENERAL USE DISCLAIMER City of Sacramento Vertical Control Network, also known as \'93City of Sacramento Datum\'94 information, is furnished by the Department of Public Works - Engineering Services. It was developed and collected for the purpose of establishing reference points for all survey activities within Sacramento City limits. City of Sacramento makes no warranties, expressed or implied, concerning the accuracy, completeness, reliability, or suitability of this data for any other particular use. Furthermore, the City of Sacramento assumes not liability for any errors, omissions, or inaccuracies associated with the use or misuse of such data.The City of Sacramento tries to keep this information current and accurate. If you find a missing or destroyed City of Sacramento benchmark please contact the City Land Surveyor by calling (916) 808-8777. ACCEPTABLE USE The City of Sacramento Datum (unadjusted NGVD29) local benchmarks provided here are acceptable as City of Sacramento benchmarks for the purpose of establishing and extending vertical control to design surveys. Reference Sacramento City Code, \'a71.12.010.All information compiled on this website is provided as a public service and for general informational purposes only. In preparation of these pages, every effort has been made by the Department of Public Works - Engineering Services to offer the most current, correct and concise information possible. The City of Sacramento and its authorized agents and contractors disclaim any responsibility for typographical errors and accuracy of the information that may be contained on the City of Sacramento website; www.cityofsacramento.orgBy accessing the information, data, materials and links contained in the City of Sacramento World Wide Web pages, you hereby agree to and accept the following terms and conditions: The Department of Public Works - Engineering Services shall not be liable for the improper or incorrect use of data, information, materials, links or related graphics described and /or contained herein.The Department of Public Works - Engineering Services shall not be liable for any demand claim, regardless of form or action, arising out of or incident to the posting of information or data on this website; the accessing or use of any information or data on this website; and/or the acts or omissions of any person or entity accessing or using any information from this website.The user hereby recognizes that the information, data, materials and related graphics are dynamic and may change over time without notice. The Department of Public Works - Engineering Services is not responsible for the use or reliance upon this information.There are links and pointers to third party internet websites contained in the City of Sacramento website. These sites linked from the City of Sacramento website are not under the City\'92s control. The City of Sacramento and its authorized agents and contractors do not assume any responsibility or liability for any information, communications or materials available at such linked sites, or at any link contained in a liked site. Each individual site has its own set of policies about what information is appropriate for public access. User assumes sole responsibility for use of third party links and pointers.\uc0\u8232 \'a0Custom License\'a06/20/2017\'a0Spatial Dataset\'a01,330 Rows\u8232 \u8232 \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/monthly-311-requests-summarized-by-category"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Monthly 311 Requests Summarized by Category}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 2__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Request Category YTD\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a05 Rows\u8232 \u8232 \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/animal-intakes-and-outcomes-for-the-last-3-years"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Animal Intakes and Outcomes for the Last 3 Years}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 3__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Animal intake and outcomes for last 3 years\uc0\u8232 \'a0No license specified\'a06/1/2017\'a0Tabular Dataset\'a036,035 Rows\u8232 \u8232 \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/fire-stations"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Fire Stations}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 4__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+City of Sacramento Fire Stations.\'a0 Contact GIS at:\'a0{\field{\*\fldinst{HYPERLINK "mailto:sacgis@cityofsacramento.org"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 sacgis@cityofsacramento.org}}\uc0\u8232 \'a0Custom License\'a06/20/2017\'a0Spatial Dataset\'a024 Rows\u8232 \u8232 \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sacramento-annual-crime-statistics"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sacramento Annual Crime Statistics}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 5__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Annual Crime Statistics\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a08 Rows\u8232 \u8232 \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/historic-districts"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Historic Districts}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 6__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+This dataset represents all Historic Districts and Special Study Areas adopted by Sacramento City Council. Contact GIS at: sacgis@cityofsacramento.org\uc0\u8232 \'a0No license specified\'a06/5/2017\'a0Spatial Dataset\'a032 Rows\u8232 \u8232 \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sphere-of-influence"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sphere Of Influence}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 7__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+The adopted Sacramento General Plan includes a policy to work with the Sacramento Local Agency Formation Commission (SLAFCO) to adjust the City's Sphere of influence to be in conformity with the City's Annexation Policy. The Sphere of Influence (SOI) is defined as "a plan for the probable ultimate physical boundaries and service area of a local government agency." All proposed annexations must be located within the City's adopted SOI before they can be considered by SLAFCO. \'a0Contact GIS at: sacgis@cityofsacramento.org\uc0\u8232 \'a0Custom License\'a06/5/2017\'a0Spatial Dataset\'a07 Rows\u8232 \u8232 \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sacramento-dispatch-data-from-current-year"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sacramento Dispatch Data From Current Year}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 8__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Sacramento Police Department Dispatch Data From Current Year\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Spatial Dataset\'a076,569 Rows\u8232 \u8232 \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/council-office-expenses"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Council Office Expenses}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 9__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Expenses incurred by the City Council Offices\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a022,035 Rows\u8232 \
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/311-street-maintenance-requests-by-month"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul 311 Street Maintenance Requests by Month}}\cf0 \expnd0\expndtw0\kerning0
+\'a0{{\NeXTGraphic 10__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Street Maintenance Requests YTD\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a07 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/off-street-parking"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Off Street Parking}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 11__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Public Access Parking Map Service.\uc0\u8232 \'a0Custom License\'a04/25/2017\'a0Spatial Dataset\'a030 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/311-monthly-data-2013"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul 311 Monthly Data 2013}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 12__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+All service requests by month for 2013\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a0537 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sacramento-year-to-date-crime-statistics"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sacramento Year-to-Date Crime Statistics}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 13__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Year-to-Date Crime Statistics\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a08 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sacramento-crime-data-from-one-year-ago"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sacramento Crime Data From One Year Ago}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 14__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Sacramento Police Department Crime Data From One Year Ago\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a038,912 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/city-of-sacramento-311-calls-2013"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul City of Sacramento 311 Calls (2013)}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 15__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Listf of calls for service and information.\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a0341,428 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/onstreetparking"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul ONSTREETPARKING}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 16__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+City of Sacramento On-street Parking Data. Updated 3/8/2017\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Spatial Dataset\'a045,449 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/subdivisions"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Subdivisions}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 17__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+This data set was created from the City of Sacramento's subdivision maps. \'a0Contact GIS at: sacgis@cityofsacramento.org\uc0\u8232 \'a0Custom License\'a06/20/2017\'a0Spatial Dataset\'a02,003 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sacramento-crime-data-from-two-years-ago"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sacramento Crime Data From Two Years Ago}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 18__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Sacramento Police Department Crime Data From Two Years Ago\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a040,220 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/lobbyist-report"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Lobbyist Report}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 19__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Lobbyist report\uc0\u8232 \'a0No license specified\'a06/2/2017\'a0Tabular Dataset\'a03,036 Row\u8232 \u8232 \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Sort Results
+\fs22 \expnd0\expndtw0\kerning0
+\'a0\'a0
+\f2 \expnd0\expndtw0\kerning0
+Relevance
+\f0 \expnd0\expndtw0\kerning0
+\'a0 \'a0
+\f2 \expnd0\expndtw0\kerning0
+Most Recent
+\f0 \expnd0\expndtw0\kerning0
+\'a0 \'a0
+\f2 \expnd0\expndtw0\kerning0
+Name
+\f0 \expnd0\expndtw0\kerning0
+\'a0\'a0
+\fs24 \expnd0\expndtw0\kerning0
+\uc0\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sacramento-5-year-projection-general-fund"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sacramento 5 year projection General Fund}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 20__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Sacramento Base General Fund expenditures absent Measure U resources\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a03 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/hospitals"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Hospitals}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 21__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+The location of the hospitals is derived from the City of Sacramento's Master\'a0Address Database (MAD), however the fields in the data are from the State of California' s CHHS General Acute Care Hospital Layer (http://oshpd.maps.arcgis.com/home/item.html?id=41daac7fcfc0413badf6b9a9298acdfc)\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Spatial Dataset\'a06 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/council-districts"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Council Districts}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 22__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+This file is the latest update approved on December 16, 2014 and effective January 16, 2015 (Ordinance No. 2014-0041). The previous update was during the Redistricting process in 2011 and effective October 6, 2011. Beach Lake Road Annexation caused boundary changes Janury 12, 2016. Contact GIS at:\'a0{\field{\*\fldinst{HYPERLINK "mailto:sacgis@cityofsacramento.org"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 sacgis@cityofsacramento.org}}\uc0\u8232 \'a0Custom License\'a04/26/2017\'a0Spatial Dataset\'a08 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/onstreetparking"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul ONSTREETPARKING}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 23__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+City of Sacramento On-street Parking Data. Updated 3/8/2017\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Spatial Dataset\'a045,449 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/subdivisions"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Subdivisions}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 24__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+This data set was created from the City of Sacramento's subdivision maps. \'a0Contact GIS at: sacgis@cityofsacramento.org\uc0\u8232 \'a0Custom License\'a06/20/2017\'a0Spatial Dataset\'a02,003 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sacramento-crime-data-from-two-years-ago"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sacramento Crime Data From Two Years Ago}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 25__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Sacramento Police Department Crime Data From Two Years Ago\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a040,220 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/city-of-sacramento-budget"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul City of Sacramento Budget}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 26__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+City of Sacramento Budget: Fiscal Year 13/14 - Actual, Fiscal Year 14/15 - Approved, Fiscal Year 15/16 - Proposed\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a098,184 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/city-of-sacramento-311-calls-2014"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul City of Sacramento 311 Calls (2014)}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 27__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Listf of calls for service and information.\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a0346,549 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/general-plan"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul General Plan}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 28__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+The General Plan is the City of Sacramento's policy guide for the future. It sets policy guidelines for everything from the physical boundaries of the city to its economic growth and physical development. Think of it as a guide for future development and preservation of resources. Contact GIS at: sacgis@cityofsacramento.org\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Spatial Dataset\'a01,208 Rows\u8232 \u8232 \u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/gps-static-survey"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul GPS Static Survey}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 29__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+City Of Sacramento's Survey Division has developed a high accuracy GPS control point grid. This file currently contains data points for the entire City of Sacramento. The latitude and longitude values have an accuracy level of +/- .05 feet. Elevation data has accuracy of +/- .24 feet. Field: GPSNUMBER Alias: Survey reference number Field Description: Reference to latitude/longitude minute Field: NORTHINGFT Alias: False Northing, California State Plane, Zone II, Feet Field: EASTINGFT Alias: False Easting, California State Plane, Zone II, Feet Field: ELVORTHOFT Alias: Elevation Ortho (ft)- a preliminary ground elevation to which the orthometric leveling correction has been applied Field: DFNGVD29FT Alias: Differential NGVD 29- elevation obtained by spirit leveling based on the national geodetic vertical datum of 1929 Field: STREET Alias: Street location of control point Field: XSTREET Alias: Cross street or reference information Field: MONTYPE Alias: Control point or monument type Field: LAT_DMS Alias: Latitude values in Degrees, Minutes, Seconds Field: LONG_DMS Alias: Latitude values in Degrees, Minutes, Seconds Field: ELLIPSHT Alias: Ellipsoid Height- the distance, measured along the mormal, from the surface of the ellipsoid to a point Field: CNVERGENCE Alias: The angle difference at a given location between grid north and astronomic north Field: GRDSCLFCTR Alias: Grid Scale Factor- a multiplier for reducing a sea level lengths to grid lengths Field: COMBNDFCTR Alias: Combined Factor- multiplier obtained from the product of the sea level and grid scale factor and applied to ground distance to obtain grid distance Field: GEOIDHT Alias: Distance of the geoid above (positive) or below (negative) the mathematical reference spheroid Field: ARCHIVELOC Alias: Use To be Determined Field Description: Associated with crossed out GPS No.-Point ID\uc0\u8232 \'a0Custom License\'a06/20/2017\'a0Spatial Dataset\'a0150 Rows\u8232 \
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/community-plan-areas"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Community Plan Areas}}\cf0 \expnd0\expndtw0\kerning0
+\'a0{{\NeXTGraphic 30__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl2\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+The purpose of this data set is to cartographically display the boundaries of the City of Sacramento's Community Plan Areas as established by the 2030 General Plan and Amended by City Council Resolution. Where before the community plans were stand-alone documents that read essentially as self-contained policy plans, almost like general plans for each community plan area, the community plans are now incorporated in the 2030 General Plan to supplement citywide policy based on conditions or issues unique to each community plan area. This layer may also be used for QUIMBY funds. \'a0Contact GIS at: sacgis@cityofsacramento.org\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Spatial Dataset\'a010 Rows\u8232 \u8232 \u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/purchase-orders-by-vendor"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Purchase Orders by Vendor}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 31__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl2\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Purchase Orders summed by Vendor, sorted by total\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a01,069 Rows\u8232 \u8232 \u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/traffic-counts"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Traffic Counts}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 32__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl2\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+City historical Traffic Counts\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a023,560 Rows\u8232 \u8232 \u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/pet-licenses-issued-in-the-last-3-years"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Pet Licenses Issued in the Last 3 Years}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 33__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl2\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Pet licenses issued in last 3 years\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a051,147 Rows\u8232 \u8232 \u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/zoning"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Zoning}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 34__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl2\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+The purpose of zoning is to divide the city into areas of such size, shape and number best suited to carry out the land use regulations of the City of Sacramento. \'a0"Zone" means a specifically delineated area in the city within which uniform regulations and requirements govern the use, placement, spacing, and size of land and buildings. Known also as zoning district. \'a0These regulations are found in the City of Sacramento Comprehensive Zoning Ordinance (Ordinance Number 2550, Fourth Series, as ammended). http://www.qcode.us/codes/sacramento/view.php?topic=17-iv&frames=on \'a0 Contact GIS at: sacgis@cityofsacramento.org\uc0\u8232 \'a0Custom License\'a06/20/2017\'a0Spatial Dataset\'a010,484 Rows\u8232 \u8232 \u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/signs"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Signs}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 35__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl2\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+City maintained signs data from the workorder management\'a0system.\'a0 Contact GIS at:\'a0{\field{\*\fldinst{HYPERLINK "mailto:sacgis@cityofsacramento.org"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 sacgis@cityofsacramento.org}}\uc0\u8232 \'a0Custom License\'a04/26/2017\'a0Spatial Dataset\'a051,584 Rows\u8232 \u8232 \u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/missed-solid-waste-services"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Missed Solid Waste Services}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 36__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl2\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Missed Solid Waste Services (Past Data)\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a010 Rows\u8232 \u8232 \u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/311-monthly-service-requests"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul 311 Monthly Service Requests}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 37__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl2\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+All 311 Monthly Service Requests\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a0537 Rows\u8232 \u8232 \u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/special-events-areas"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Special Events - Areas}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 38__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl2\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Special Events Polygon Features.\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Spatial Dataset\'a0203 Rows\u8232 \u8232 \u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/citywide-contracts"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Citywide Contracts}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 39__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl320
+\ls1\ilvl2\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl2\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+A List of current Citywide contracts\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a038 Rows\u8232 \
+\ls1\ilvl2\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+\
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/animals-available-for-adoptions"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Animals Available for Adoptions}}\cf0 \expnd0\expndtw0\kerning0
+\'a0{{\NeXTGraphic 40__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl3\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Animals available for adoption\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a0127 Rows\u8232 \u8232 \u8232 \
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/business-operation-tax-information"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Business Operation Tax Information}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 41__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl3\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+List of businesses that operate in the City of Sacramento.\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a090,629 Rows\u8232 \u8232 \u8232 \
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/purchase-orders-to-date"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Purchase Orders to Date}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 42__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl3\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Purchase Orders to Date\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a054,758 Rows\u8232 \u8232 \u8232 \
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/city-of-sacramento-311-calls-2015"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul City of Sacramento 311 Calls (2015)}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 43__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl3\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+List of calls for service and information.\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a0367,568 Rows\u8232 \u8232 \u8232 \
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/special-study-areas"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Special Study Areas}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 44__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl3\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Planning for the future of these unincorporated areas need to be coordinated by the City and County. In some cases, part or all of these areas may eventually be annexed by the city. This data is primarily used for cartographic purposes. \'a0 Contact GIS at: sacgis@cityofsacramento.org\uc0\u8232 \'a0Custom License\'a06/20/2017\'a0Spatial Dataset\'a05 Rows\u8232 \u8232 \u8232 \
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/source-of-311-service-requests-by-month"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Source of 311 Service Requests by Month}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 45__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl3\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Source of 311 Service Requests by Source (Phone, App, Email) by month for 2013.\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a03 Rows\u8232 \u8232 \u8232 \
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/expenses-2014-2015"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Expenses 2014-2015}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 46__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl3\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Budget expense 2014-2015\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a021 Rows\u8232 \u8232 \u8232 \
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/census-2010-block-population"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Census 2010 Block Population}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 47__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl3\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+This data set is census block population & race/ethnicity data compiled from PL-94-171 data table p1 race and p2 ethnicity totals. This is the primary population data being used for the City of Sacramento Redistricting 2011. These files do not contain the exhaustive race/ethnicity/Hispanic origin tables that are available in the PL-94-171. Note that the race totals in this dataset also containg ethincity counts. Addtitional information about the data can be found: www.census.gov \'a0Contact GIS at: sacgis@cityofsacramento.org\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Spatial Dataset\'a07,632 Rows\u8232 \u8232 \u8232 \
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/top-311-request-types-october-2013"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Top 311 Request Types - October 2013}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 48__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl3\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Top 311 Request Types for October 2013\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a0116 Rows\u8232 \u8232 \u8232 \
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/road-closures"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Road Closures}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 49__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx2380\tx2880\pardeftab720\li2880\fi-2880\sl320
+\ls1\ilvl3\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl3\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Traffic Alerts and Road Closures.\uc0\u8232 \'a0No license specified\'a06/19/2017\'a0Spatial Dataset\'a0375 Row\u8232 \
+\ls1\ilvl3\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+\
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/311-service-requests-by-zip-code"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul 311 Service Requests by Zip Code}}\cf0 \expnd0\expndtw0\kerning0
+\'a0{{\NeXTGraphic 50__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl4\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+311 Service Requests by Zip Code, source (Phone, email, app) and request type.\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a045,902 Rows\u8232 \u8232 \u8232 \
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/311-call-volume-by-month"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul 311 Call Volume by Month}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 51__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl4\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Monthly view of 311 call volume\uc0\u8232 \'a0Custom License\'a06/20/2017\'a0Tabular Dataset\'a01 Rows\u8232 \u8232 \u8232 \
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sacramento-dispatch-data-from-one-year-ago"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sacramento Dispatch Data From One Year Ago}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 52__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl4\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Sacramento Police Department Dispatch Data From One Year Ago\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Spatial Dataset\'a0332,514 Rows\u8232 \u8232 \u8232 \
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/outstanding-checks"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Outstanding Checks}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 53__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl4\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Uncashed City of Sacramento Accounts Payable ( Commercial) checks.\uc0\u8232 \'a0No license specified\'a06/18/2017\'a0Tabular Dataset\'a07,002 Rows\u8232 \u8232 \u8232 \
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/parks"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Parks}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 54__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl4\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+To show existing and proposed parks within the City of Sacramento, CA. Contact GIS at:\'a0{\field{\*\fldinst{HYPERLINK "mailto:sacgis@cityofsacramento.org"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 sacgis@cityofsacramento.org}}\uc0\u8232 \'a0Custom License\'a04/26/2017\'a0Spatial Dataset\'a0341 Rows\u8232 \u8232 \u8232 \
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sacramento-fire-department-911-call-response"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sacramento Fire Department 911 Call Response}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 55__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl4\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+List of 911 calls to Sacramento Fire Department\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Spatial Dataset\'a016,009 Rows\u8232 \u8232 \u8232 \
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/checks-issued"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Checks Issued}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 56__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl4\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Accounts Payable (Commercial) checks issued by the City of Sacramento.\uc0\u8232 \'a0No license specified\'a06/14/2017\'a0Tabular Dataset\'a050,134 Rows\u8232 \u8232 \u8232 \
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/campaign-finance-disbursements"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Campaign Finance Disbursements}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 57__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl4\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Click on the Notes icon to view Form_Type description\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a025,500 Rows\u8232 \u8232 \u8232 \
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/missed-solid-waste-service-pick-ups"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Missed Solid Waste Service Pick-ups}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 58__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl4\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Missed Solid Waste Service Pick-ups by Day of Week\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a08 Rows\u8232 \u8232 \u8232 \
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/design-review-areas"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Design Review Areas}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 59__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3100\tx3600\pardeftab720\li3600\fi-3600\sl320
+\ls1\ilvl4\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl4\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+The purpose of this data set is to illustrate design review districts as they become adopted by city council. \'a0The purpose of the Design Review Districts is for the protection of the value, appearance and use of public and private property; the maintenance of a high level of community development and the achievement of \'a0orderly, harmonious and integrated development in specific areas within the city of Sacramento. \'a0Contact GIS at: sacgis@cityofsacramento.org\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Spatial Dataset\'a017 Rows\u8232 \
+\ls1\ilvl4\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+\
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sacramento-dispatch-data-from-one-year-ago"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sacramento Dispatch Data From One Year Ago}}\cf0 \expnd0\expndtw0\kerning0
+\'a0{{\NeXTGraphic 60__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl5\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Sacramento Police Department Dispatch Data From One Year Ago\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Spatial Dataset\'a0332,514 Rows\u8232 \u8232 \u8232 \
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sacramento-police-vehicle-stop-data"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sacramento Police Vehicle Stop Data}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 61__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl5\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Data is from vehicle stop database. Contains all traffic stops performed in city limits. Updated monthly to account for any unresolved/incomplete entries.\'a0\uc0\u8232 \'a0No license specified\'a06/21/2017\'a0Tabular Dataset\'a058,353 Rows\u8232 \u8232 \u8232 \
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/population-by-race-2010"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Population by Race 2010}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 62__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl5\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Census 2010 Population by Race - City of Sacramento\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a08 Rows\u8232 \u8232 \u8232 \
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/road-detours"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Road Detours}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 63__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl5\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+In conjuction with Traffic Closures, the layer provides information to the public of road detours due to Construction, closures, or special events.\uc0\u8232 \'a0No license specified\'a05/22/2017\'a0Spatial Dataset\'a04 Rows\u8232 \u8232 \u8232 \
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/streetlights"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Streetlights}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 64__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl5\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+City of Sacramento streetlight locations managed through a collaboration with the Engineering Division and GIS staff. \'a0Data is updated as needed with the City's work order management system and GIS. \'a0Contact GIS at:\'a0sacgis@cityofsacramento.org\uc0\u8232 \'a0Custom License\'a06/13/2017\'a0Spatial Dataset\'a040,349 Rows\u8232 \u8232 \u8232 \
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/city-of-sacramento-last-three-approved-budgets"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul City of Sacramento Last Three Approved Budgets}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 65__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl5\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+The annual operating budget is a City Council approved spending plan for use of the City\'e2\'80\'99s funding sources.\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a01,599 Rows\u8232 \u8232 \u8232 \
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/bid-activities-report"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Bid Activities Report}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 66__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl5\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+A list of current and past solicitations\uc0\u8232 \'a0No license specified\'a05/6/2017\'a0Tabular Dataset\'a0395 Rows\u8232 \u8232 \u8232 \
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/sacramento-ucr-year-to-year-comparison"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Sacramento UCR Year-to-Year Comparison}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 67__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl5\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Sacramento UCR Year-to-Year Comparison\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a021 Rows\u8232 \u8232 \u8232 \
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/city-maintained-trees"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul City Maintained Trees}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 68__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl5\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+City Maintained Trees. Trees or tree site locations maintained by the Urban Forestry section of the Department of Public Works. Sacramento\'92s Urban Forestry section is specifically focused on planting, protecting and maintaining trees located in the city right-of-way, parks and public spaces. These trees provide us with multiple benefits and are a unique green infrastructure that continually gives back when properly maintained. In fact, City trees are the only public assets that can increase in value as they age. Contact GIS at:\'a0{\field{\*\fldinst{HYPERLINK "mailto:sacgis@cityofsacramento.org"}}{\fldrslt \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 sacgis@cityofsacramento.org}}\uc0\u8232 \'a0Custom License\'a04/26/2017\'a0Spatial Dataset\'a0100,072 Rows\u8232 \u8232 \u8232 \
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf2 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}{\field{\*\fldinst{HYPERLINK "http://data.cityofsacramento.org/datasets/campaign-finance-form-receipts"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul Campaign Finance Form Receipts}}\cf0 \expnd0\expndtw0\kerning0
+\'a0\expnd0\expndtw0\kerning0
+{{\NeXTGraphic 69__#$!@%!#__unknown.png \width4000 \height2660
+}¬}\expnd0\expndtw0\kerning0
+\
+\pard\tx3820\tx4320\pardeftab720\li4320\fi-4320\sl320
+\ls1\ilvl5\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Shared by Publisher_SacCity\'a0\
+\ls1\ilvl5\kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u9642 
+\f0 	}\expnd0\expndtw0\kerning0
+Click on the Notes icon to view Form_Type description\uc0\u8232 \'a0No license specified\'a06/20/2017\'a0Tabular Dataset\'a029,824 R\u8232 \u8232 \u8232 \u8232 \u8232 \
+}
